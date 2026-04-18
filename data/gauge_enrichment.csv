@@ -1,0 +1,4 @@
+study_area,gauge_station,gauge_river,gauge_lat,gauge_lon,gauge_level_m,gauge_level_max,gauge_level_anom,gauge_discharge,Q_ratio,apwrims_sm_5cm,apwrims_sm_30cm,apwrims_sm_100cm,apwrims_sm_150cm
+Budameru_Krishna,Budameru_at_Velagaleru,Budameru,16.6494,80.6136,23.93,23.93,0.0,,,,,,
+Rayalacheruvu_Tirupati,APWRIMS_KVBPuram,Kushasthali,13.45,79.89,,,,,,48.31,47.31,67.21,73.86
+Annamayya_Kadapa,Nandalur_CWC_Cheyyeru,Cheyyeru,14.2547,79.1164,,,,200000.0,81.3,,,,
